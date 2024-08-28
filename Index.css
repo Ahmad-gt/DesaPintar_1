@@ -62,7 +62,7 @@
         }
         
         .Hero{
-            width: 1512px;
+            width: 1300px;
             height: 898px;
             background-image: url(Desa.jpg);
             display: inline-block;
@@ -105,7 +105,7 @@
         
         .Section1{
             height: 301px;
-            width: 1340px;
+            width: 1400px;
             background-color:#00A69B;
             display: flex;
             justify-content: space-between;
