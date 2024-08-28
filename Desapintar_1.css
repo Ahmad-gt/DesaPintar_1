@@ -8,7 +8,7 @@
         /* Gaya untuk navbar */
         .navbar {
             display: Flex;
-            Width: 1440px;
+            Width: 1340px;
             Height:80Px;
             justify-content: space-between;
         }
@@ -62,7 +62,7 @@
         }
         
         .Hero{
-            width: 1412px;
+            width: 1340px;
             height: 898px;
             background-image: url(Desa.jpg);
             display: inline-block;
@@ -105,7 +105,7 @@
         
         .Section1{
             height: 301px;
-            width: 1756px;
+            width: 1340px;
             background-color:#00A69B;
             display: flex;
             justify-content: space-between;
