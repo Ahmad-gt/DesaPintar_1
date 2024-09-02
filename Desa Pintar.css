@@ -71,7 +71,7 @@ html, body {
         .gambar{
             width: 100%;
             height: 547px;
-            background-image: url(Gambar/Desa.jpg);
+            background-image: url(Gambar/Desa.JPG);
             display: inline-block;
         }
         .slider{
